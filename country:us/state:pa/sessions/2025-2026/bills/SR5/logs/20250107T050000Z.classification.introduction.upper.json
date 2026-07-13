@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Introduced",
+    "occurred_at": "2025-01-07T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.palegis.us/legislation/bills/2025/sr5",
+        "note": ""
+      },
+      {
+        "url": "https://www.palegis.us/senate/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=6",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SR 5"
+}
