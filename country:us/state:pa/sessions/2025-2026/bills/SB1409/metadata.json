@@ -1,0 +1,169 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "SB 1409",
+  "title": "An Act amending the act of May 17, 1921 (P.L.682, No.284), known as The Insurance Company Law of 1921, in quality health care accountability and protection, further providing for definitions and for step therapy considerations.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pa-2025_2026-sb1409"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred to Banking & Insurance",
+      "date": "2026-07-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:38Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Tracy Pennycuick",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tracy Pennycuick\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lisa Boscola",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lisa Boscola\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kristin Phillips-Hill",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kristin Phillips-Hill\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Camera Bartolotta",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Camera Bartolotta\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rosemary Brown",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rosemary Brown\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David Argall",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"David Argall\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michele Brooks",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michele Brooks\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Elder Vogel",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Elder Vogel\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Judy Ward",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Judy Ward\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Timothy Kearney",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Timothy Kearney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nikil Saval",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nikil Saval\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lynda Schlegel Culver",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lynda Schlegel Culver\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Printer's No. PN1876",
+      "links": [
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/SB1409/PN1876",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/SB1409/PN1876",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/DOC/2025/0/SB1409/PN1876",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.palegis.us/legislation/bills/2025/sb1409",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:pa/government",
+    "name": "Pennsylvania",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:pa"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:04:38Z"
+  }
+}

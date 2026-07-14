@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "HB 1202",
-  "title": "An Act amending Title 35 (Health and Safety) of the Pennsylvania Consolidated Statutes, providing for long-term infectious disease control.",
+  "title": "An Act amending Title 35 (Health and Safety) of the Pennsylvania Consolidated Statutes, establishing and providing for duties of the Infectious Disease Advisory Commission.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -25,6 +25,41 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:06:43Z"
+      }
+    },
+    {
+      "description": "Reported as amended",
+      "date": "2025-12-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:38Z"
+      }
+    },
+    {
+      "description": "First consideration",
+      "date": "2025-12-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:38Z"
+      }
+    },
+    {
+      "description": "Laid on the table",
+      "date": "2025-12-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:38Z"
       }
     }
   ],
@@ -65,6 +100,25 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Printer's No. PN2715",
+      "links": [
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HB1202/PN2715",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/HB1202/PN2715",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/DOC/2025/0/HB1202/PN2715",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Printer's No. PN1350",
       "links": [
         {
@@ -90,6 +144,14 @@
     {
       "url": "https://www.palegis.us/legislation/bills/2025/hb1202",
       "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=55&rollcallid=1555&sessYr=2025&sessInd=0",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=55&rollcallid=1554&sessYr=2025&sessInd=0",
+      "note": ""
     }
   ],
   "extras": {},
@@ -100,7 +162,7 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:43Z",
+    "logs_latest_update": "2026-07-14T13:04:38Z",
     "text_extraction_latest_update": "2026-07-13T10:42:12.276356Z"
   }
 }

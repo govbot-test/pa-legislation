@@ -132,6 +132,31 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:42Z"
       }
+    },
+    {
+      "description": "Reported as amended",
+      "date": "2026-06-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:39Z"
+      }
+    },
+    {
+      "description": "First consideration",
+      "date": "2026-06-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -486,10 +511,53 @@
       "primary": false,
       "person_id": "~{\"name\": \"Rick Krajewski\"}",
       "organization_id": null
+    },
+    {
+      "name": "Ryan Bizzarro",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ryan Bizzarro\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Abigail Salisbury",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Abigail Salisbury\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kyle Mullins",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kyle Mullins\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Printer's No. PN3726",
+      "links": [
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HB1123/PN3726",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/HB1123/PN3726",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/DOC/2025/0/HB1123/PN3726",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Printer's No. PN2414",
       "links": [
@@ -529,23 +597,19 @@
       "classification": ""
     }
   ],
-  "documents": [
-    {
-      "note": "House Fiscal Note",
-      "links": [
-        {
-          "url": "https://www.legis.state.pa.us/WU01/LI/BI/FN/2025/0/HB1123P2414.pdf",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    }
-  ],
+  "documents": [],
   "citations": [],
   "sources": [
     {
       "url": "https://www.palegis.us/legislation/bills/2025/hb1123",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=37&rollcallid=960&sessYr=2025&sessInd=0",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=37&rollcallid=961&sessYr=2025&sessInd=0",
       "note": ""
     },
     {
@@ -573,7 +637,7 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:42Z",
+    "logs_latest_update": "2026-07-14T13:04:39Z",
     "text_extraction_latest_update": "2026-07-13T10:44:11.286004Z"
   }
 }

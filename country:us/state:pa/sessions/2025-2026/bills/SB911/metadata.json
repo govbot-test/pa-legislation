@@ -51,6 +51,62 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:42Z"
       }
+    },
+    {
+      "description": "Laid on the table (Pursuant to Senate Rule 9)",
+      "date": "2026-02-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:38Z"
+      }
+    },
+    {
+      "description": "Removed from table",
+      "date": "2026-06-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:38Z"
+      }
+    },
+    {
+      "description": "Amended on second consideration",
+      "date": "2026-06-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:38Z"
+      }
+    },
+    {
+      "description": "Second consideration",
+      "date": "2026-06-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:38Z"
+      }
+    },
+    {
+      "description": "Re-referred to Appropriations",
+      "date": "2026-06-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -114,6 +170,25 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Printer's No. PN1841",
+      "links": [
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/SB0911/PN1841",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/SB0911/PN1841",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/DOC/2025/0/SB0911/PN1841",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Printer's No. PN1283",
       "links": [
         {
@@ -160,6 +235,10 @@
       "note": ""
     },
     {
+      "url": "https://www.palegis.us/senate/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=441",
+      "note": ""
+    },
+    {
       "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=39&rollcallid=521&sessYr=2025&sessInd=0",
       "note": ""
     },
@@ -176,7 +255,7 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:42Z",
+    "logs_latest_update": "2026-07-14T13:04:38Z",
     "text_extraction_latest_update": "2026-07-13T10:48:11.531701Z"
   }
 }

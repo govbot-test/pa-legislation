@@ -26,6 +26,30 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:42Z"
       }
+    },
+    {
+      "description": "Reported as committed",
+      "date": "2025-12-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:39Z"
+      }
+    },
+    {
+      "description": "Adopted",
+      "date": "2025-12-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -140,6 +164,46 @@
       "primary": false,
       "person_id": "~{\"name\": \"Joseph Hohenstein\"}",
       "organization_id": null
+    },
+    {
+      "name": "Melissa Shusterman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Melissa Shusterman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joe Ciresi",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joe Ciresi\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Abigail Salisbury",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Abigail Salisbury\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tarik Khan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tarik Khan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Justin Fleming",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Justin Fleming\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -170,6 +234,14 @@
     {
       "url": "https://www.palegis.us/legislation/bills/2025/hr370",
       "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/house/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=780",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=12&rollcallid=1526&sessYr=2025&sessInd=0",
+      "note": ""
     }
   ],
   "extras": {},
@@ -180,7 +252,7 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:42Z",
+    "logs_latest_update": "2026-07-14T13:04:39Z",
     "text_extraction_latest_update": "2026-07-13T09:27:15.341233Z"
   }
 }

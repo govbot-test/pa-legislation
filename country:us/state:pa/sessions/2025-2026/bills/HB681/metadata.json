@@ -132,6 +132,54 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:40Z"
       }
+    },
+    {
+      "description": "Reported as committed",
+      "date": "2026-06-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:38Z"
+      }
+    },
+    {
+      "description": "First consideration",
+      "date": "2026-06-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:38Z"
+      }
+    },
+    {
+      "description": "Second consideration",
+      "date": "2026-06-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:38Z"
+      }
+    },
+    {
+      "description": "Re-referred to Appropriations",
+      "date": "2026-06-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -320,6 +368,10 @@
       "note": ""
     },
     {
+      "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=23&rollcallid=925&sessYr=2025&sessInd=0",
+      "note": ""
+    },
+    {
       "url": "https://www.palegis.us/house/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=387",
       "note": ""
     },
@@ -356,7 +408,7 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:40Z",
+    "logs_latest_update": "2026-07-14T13:04:38Z",
     "text_extraction_latest_update": "2026-07-13T10:13:04.460280Z"
   }
 }

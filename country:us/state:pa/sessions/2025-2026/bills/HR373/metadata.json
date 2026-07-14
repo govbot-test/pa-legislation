@@ -14,7 +14,20 @@
       "identifier": "ocd-bill-pa-2025_2026-hr373"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Referred to Veterans Affairs & Emergency Preparedness",
+      "date": "2025-12-03T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:38Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Paul Friel",
@@ -319,10 +332,70 @@
       "primary": false,
       "person_id": "~{\"name\": \"John Inglis Iii\"}",
       "organization_id": null
+    },
+    {
+      "name": "Melissa Cerrato",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Melissa Cerrato\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Maureen Madden",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Maureen Madden\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Benjamin Sanchez",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Benjamin Sanchez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tim Briggs",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tim Briggs\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Darisha K. Parker",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Darisha K. Parker\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Printer's No. PN2662",
+      "links": [
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HR0373/PN2662",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/HR0373/PN2662",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/DOC/2025/0/HR0373/PN2662",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -339,7 +412,7 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:43Z",
+    "logs_latest_update": "2026-07-14T13:04:38Z",
     "text_extraction_latest_update": "2026-07-14T09:49:10.856236Z"
   }
 }

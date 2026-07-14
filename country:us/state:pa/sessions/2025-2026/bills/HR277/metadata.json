@@ -48,6 +48,28 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:42Z"
       }
+    },
+    {
+      "description": "Removed from table",
+      "date": "2025-12-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:37Z"
+      }
+    },
+    {
+      "description": "Adopted",
+      "date": "2025-12-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:37Z"
+      }
     }
   ],
   "sponsorships": [
@@ -202,6 +224,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Perry Warren\"}",
       "organization_id": null
+    },
+    {
+      "name": "Tarik Khan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tarik Khan\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -234,6 +264,10 @@
       "note": ""
     },
     {
+      "url": "https://www.palegis.us/house/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=779",
+      "note": ""
+    },
+    {
       "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=62&rollcallid=1002&sessYr=2025&sessInd=0",
       "note": ""
     }
@@ -246,7 +280,7 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:42Z",
+    "logs_latest_update": "2026-07-14T13:04:37Z",
     "text_extraction_latest_update": "2026-07-13T10:56:20.912789Z"
   }
 }

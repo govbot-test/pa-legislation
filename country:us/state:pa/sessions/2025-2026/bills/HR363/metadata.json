@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "HR 363",
-  "title": "A Resolution directing the Joint State Government Commission to study the impact of private equity in child care and make recommendations for limiting negative effects.",
+  "title": "A Resolution directing the Joint State Government Commission to study Pennsylvania's early childhood education system, including the impact of public and private equity in child care and make recommendations for improvements that are necessary to increase access to affordable, high-quality care for all families across this Commonwealth.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "resolution"
@@ -25,6 +25,41 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:06:42Z"
+      }
+    },
+    {
+      "description": "Reported as amended",
+      "date": "2026-06-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:39Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-06-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:39Z"
+      }
+    },
+    {
+      "description": "Adopted",
+      "date": "2026-06-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:39Z"
       }
     }
   ],
@@ -108,10 +143,56 @@
       "primary": false,
       "person_id": "~{\"name\": \"G. Roni Green\"}",
       "organization_id": null
+    },
+    {
+      "name": "Tarik Khan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tarik Khan\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Printer's No. PN3679",
+      "links": [
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HR0363/PN3679",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/HR0363/PN3679",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/DOC/2025/0/HR0363/PN3679",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Printer's No. PN3482",
+      "links": [
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HR0363/PN3482",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/HR0363/PN3482",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/DOC/2025/0/HR0363/PN3482",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Printer's No. PN2571",
       "links": [
@@ -138,6 +219,22 @@
     {
       "url": "https://www.palegis.us/legislation/bills/2025/hr363",
       "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/house/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=1233",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/house/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=1232",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=48&rollcallid=2218&sessYr=2025&sessInd=0",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=48&rollcallid=2217&sessYr=2025&sessInd=0",
+      "note": ""
     }
   ],
   "extras": {},
@@ -148,7 +245,7 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:42Z",
+    "logs_latest_update": "2026-07-14T13:04:39Z",
     "text_extraction_latest_update": "2026-07-13T08:39:32.400635Z"
   }
 }

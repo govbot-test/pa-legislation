@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "HB 1615",
-  "title": "An Act amending Titles 42 (Judiciary and Judicial Procedure) and 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in sentencing, further providing for sentence of total confinement; in licensing of drivers, further providing for notice of acceptance of Accelerated Rehabilitative Disposition and for the offense of driving while operating privilege is suspended or revoked; in miscellaneous provisions relating to serious traffic offenses, further providing for homicide by vehicle while driving under influence; and, in driving after imbibing alcohol or utilizing drugs, further providing for the offense of driving under influence of alcohol or controlled substance, for grading, for penalties, for prior offenses and for accelerated rehabilitative disposition.",
+  "title": "An Act amending Titles 42 (Judiciary and Judicial Procedure) and 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in sentencing, further providing for sentence of total confinement; in licensing of drivers, further providing for notice of acceptance of Accelerated Rehabilitative Disposition, for the offense of driving while operating privilege is suspended or revoked and for ignition interlock limited license; in miscellaneous provisions relating to serious traffic offenses, further providing for homicide by vehicle while driving under influence; and, in driving after imbibing alcohol or utilizing drugs, further providing for the offense of driving under influence of alcohol or controlled substance, for grading, for penalties, for ignition interlock, for prior offenses and for Accelerated Rehabilitative Disposition.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -205,6 +205,156 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:43Z"
       }
+    },
+    {
+      "description": "Re-reported as amended",
+      "date": "2025-12-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:38Z"
+      }
+    },
+    {
+      "description": "Re-referred to Appropriations",
+      "date": "2025-12-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:38Z"
+      }
+    },
+    {
+      "description": "Re-reported as committed",
+      "date": "2025-12-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:38Z"
+      }
+    },
+    {
+      "description": "Amended on third consideration",
+      "date": "2025-12-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:38Z"
+      }
+    },
+    {
+      "description": "Third consideration and final passage",
+      "date": "2025-12-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:38Z"
+      }
+    },
+    {
+      "description": "Referred to Rules",
+      "date": "2025-12-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:38Z"
+      }
+    },
+    {
+      "description": "Re-reported on concurrence, as committed",
+      "date": "2025-12-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:38Z"
+      }
+    },
+    {
+      "description": "House concurred in Senate amendments",
+      "date": "2025-12-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:38Z"
+      }
+    },
+    {
+      "description": "Signed in House",
+      "date": "2025-12-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:38Z"
+      }
+    },
+    {
+      "description": "Signed in Senate",
+      "date": "2025-12-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:38Z"
+      }
+    },
+    {
+      "description": "Presented to the Governor",
+      "date": "2025-12-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:38Z"
+      }
+    },
+    {
+      "description": "Approved by the Governor",
+      "date": "2025-12-22T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:38Z"
+      }
+    },
+    {
+      "description": "Act No. 58 of 2025",
+      "date": "2025-12-22T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -324,6 +474,44 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Printer's No. PN2677",
+      "links": [
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HB1615/PN2677",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/HB1615/PN2677",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/DOC/2025/0/HB1615/PN2677",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Printer's No. PN2676",
+      "links": [
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HB1615/PN2676",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/HB1615/PN2676",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/DOC/2025/0/HB1615/PN2676",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Printer's No. PN2517",
       "links": [
         {
@@ -405,7 +593,22 @@
       "note": "House Fiscal Note",
       "links": [
         {
+          "url": "https://www.legis.state.pa.us/WU01/LI/BI/FN/2025/0/HB1615P2677.pdf",
+          "media_type": "application/pdf"
+        },
+        {
           "url": "https://www.legis.state.pa.us/WU01/LI/BI/FN/2025/0/HB1615P2354.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Fiscal Note",
+      "links": [
+        {
+          "url": "https://www.legis.state.pa.us/WU01/LI/BI/SFN/2025/0/HB1615P2676.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -417,6 +620,30 @@
   "sources": [
     {
       "url": "https://www.palegis.us/legislation/bills/2025/hb1615",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/house/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=787",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=67&rollcallid=1572&sessYr=2025&sessInd=0",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/senate/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=305",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=3&rollcallid=611&sessYr=2025&sessInd=0",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=19&rollcallid=594&sessYr=2025&sessInd=0",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=19&rollcallid=595&sessYr=2025&sessInd=0",
       "note": ""
     },
     {
@@ -456,7 +683,7 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:43Z",
+    "logs_latest_update": "2026-07-14T13:04:38Z",
     "text_extraction_latest_update": "2026-07-13T10:26:25.711036Z"
   }
 }

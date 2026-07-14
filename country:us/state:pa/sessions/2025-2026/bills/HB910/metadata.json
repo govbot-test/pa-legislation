@@ -26,6 +26,40 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:43Z"
       }
+    },
+    {
+      "description": "Reported as committed",
+      "date": "2026-05-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:36Z"
+      }
+    },
+    {
+      "description": "First consideration",
+      "date": "2026-05-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:36Z"
+      }
+    },
+    {
+      "description": "Laid on the table",
+      "date": "2026-05-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:36Z"
+      }
     }
   ],
   "sponsorships": [
@@ -244,6 +278,38 @@
       "primary": false,
       "person_id": "~{\"name\": \"Tim Twardzik\"}",
       "organization_id": null
+    },
+    {
+      "name": "Scott Conklin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Scott Conklin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Roman Kozak",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Roman Kozak\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark Gillen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mark Gillen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Barbara Gleim",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Barbara Gleim\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -274,6 +340,10 @@
     {
       "url": "https://www.palegis.us/legislation/bills/2025/hb910",
       "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=60&rollcallid=2110&sessYr=2025&sessInd=0",
+      "note": ""
     }
   ],
   "extras": {},
@@ -284,7 +354,7 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:43Z",
+    "logs_latest_update": "2026-07-14T13:04:36Z",
     "text_extraction_latest_update": "2026-07-13T10:15:15.628081Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "HB 993",
-  "title": "An Act amending Title 51 (Military Affairs) of the Pennsylvania Consolidated Statutes, in veteran-owned small businesses, providing for veteran-owned business logotype; and imposing a penalty.",
+  "title": "An Act amending Title 51 (Military Affairs) of the Pennsylvania Consolidated Statutes, in general provisions, providing for consolidated annual report; in veteran-owned small businesses, providing for veteran-owned business logotype; and imposing a penalty.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -130,6 +130,53 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:06:43Z"
+      }
+    },
+    {
+      "description": "Reported as amended",
+      "date": "2026-03-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:40Z"
+      }
+    },
+    {
+      "description": "First consideration",
+      "date": "2026-03-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:40Z"
+      }
+    },
+    {
+      "description": "Amended on second consideration",
+      "date": "2026-04-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:40Z"
+      }
+    },
+    {
+      "description": "Laid on the table (Pursuant to Senate Rule 9)",
+      "date": "2026-06-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:40Z"
       }
     }
   ],
@@ -373,10 +420,56 @@
       "primary": false,
       "person_id": "~{\"name\": \"David Delloso\"}",
       "organization_id": null
+    },
+    {
+      "name": "Melissa Cerrato",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Melissa Cerrato\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Printer's No. PN3229",
+      "links": [
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HB0993/PN3229",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/HB0993/PN3229",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/DOC/2025/0/HB0993/PN3229",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Printer's No. PN3004",
+      "links": [
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HB0993/PN3004",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/HB0993/PN3004",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/DOC/2025/0/HB0993/PN3004",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Printer's No. PN1598",
       "links": [
@@ -436,6 +529,14 @@
       "note": ""
     },
     {
+      "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=21&rollcallid=666&sessYr=2025&sessInd=0",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=21&rollcallid=667&sessYr=2025&sessInd=0",
+      "note": ""
+    },
+    {
       "url": "https://www.palegis.us/house/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=196",
       "note": ""
     },
@@ -460,7 +561,7 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:43Z",
+    "logs_latest_update": "2026-07-14T13:04:40Z",
     "text_extraction_latest_update": "2026-07-13T10:03:38.890582Z"
   }
 }

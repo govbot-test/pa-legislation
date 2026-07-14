@@ -1,0 +1,409 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "HR 476",
+  "title": "A Resolution recognizing the month of May 2026 as \"Asian-American and Pacific Islander Heritage Month\" in Pennsylvania.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pa-2025_2026-hr476"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred to Tourism, Recreation & Economic Development",
+      "date": "2026-04-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:38Z"
+      }
+    },
+    {
+      "description": "Reported as committed",
+      "date": "2026-04-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:38Z"
+      }
+    },
+    {
+      "description": "Adopted",
+      "date": "2026-05-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:38Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Arvind Venkat",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Arvind Venkat\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tarik Khan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tarik Khan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Robert Leadbeter",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Robert Leadbeter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nikki Rivera",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nikki Rivera\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steven Malagari",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steven Malagari\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nathan Davidson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nathan Davidson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tina Pickett",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tina Pickett\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joseph Hohenstein",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joseph Hohenstein\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Andre Carroll",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Andre Carroll\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marylouise Isaacson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Marylouise Isaacson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chris Pielli",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Chris Pielli\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ben Waxman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ben Waxman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Benjamin Sanchez",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Benjamin Sanchez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Carol Hill-Evans",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Carol Hill-Evans\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Napoleon J. Nelson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Napoleon J. Nelson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tarah Probst",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tarah Probst\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeanne Mcneill",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeanne Mcneill\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael Schlossberg",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael Schlossberg\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tim Brennan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tim Brennan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mandy Steele",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mandy Steele\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Greg Vitali",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Greg Vitali\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ed Neilson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ed Neilson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kyle Donahue",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kyle Donahue\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kristine Howard",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kristine Howard\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sean Dougherty",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sean Dougherty\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Robert Freeman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Robert Freeman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Melissa Shusterman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Melissa Shusterman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eddie Pashinski",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Eddie Pashinski\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Heather Boyd",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Heather Boyd\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dan Williams",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dan Williams\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joe Ciresi",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joe Ciresi\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Justin Fleming",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Justin Fleming\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Johanny Cepeda-Freytiz",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Johanny Cepeda-Freytiz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steven Mentzer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steven Mentzer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeremy Shaffer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeremy Shaffer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kristin Marcell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kristin Marcell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steve Samuelson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steve Samuelson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jennifer O'Mara",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jennifer O'Mara\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Printer's No. PN3163",
+      "links": [
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HR0476/PN3163",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/HR0476/PN3163",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/DOC/2025/0/HR0476/PN3163",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.palegis.us/legislation/bills/2025/hr476",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/house/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=998",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=65&rollcallid=2069&sessYr=2025&sessInd=0",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:pa/government",
+    "name": "Pennsylvania",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:pa"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:04:38Z"
+  }
+}

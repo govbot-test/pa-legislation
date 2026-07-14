@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Introduced and adopted",
+    "occurred_at": "2026-01-06T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.palegis.us/legislation/bills/2025/sr206",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SR 206"
+}

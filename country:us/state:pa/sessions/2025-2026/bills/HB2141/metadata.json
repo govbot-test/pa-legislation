@@ -1,0 +1,145 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "HB 2141",
+  "title": "An Act amending the act of April 9, 1929 (P.L.343, No.176), known as The Fiscal Code, in oil and gas wells, further providing for Oil and Gas Lease Fund; and, in general budget implementation, further providing for Federal and Commonwealth use of forest land.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pa-2025_2026-hb2141"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred to Finance",
+      "date": "2026-01-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:37Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Martin Causer",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Martin Causer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tina Pickett",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tina Pickett\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David Zimmerman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"David Zimmerman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian Smith",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brian Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Armanini",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Armanini\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark Gillen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mark Gillen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joe Ciresi",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joe Ciresi\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joe Hamm",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joe Hamm\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Clint Owlett",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Clint Owlett\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Printer's No. PN2766",
+      "links": [
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HB2141/PN2766",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/HB2141/PN2766",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/DOC/2025/0/HB2141/PN2766",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.palegis.us/legislation/bills/2025/hb2141",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:pa/government",
+    "name": "Pennsylvania",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:pa"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:04:37Z"
+  }
+}

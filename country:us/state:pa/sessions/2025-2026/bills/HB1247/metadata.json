@@ -26,6 +26,40 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:45Z"
       }
+    },
+    {
+      "description": "Reported as committed",
+      "date": "2026-04-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:38Z"
+      }
+    },
+    {
+      "description": "First consideration",
+      "date": "2026-04-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:38Z"
+      }
+    },
+    {
+      "description": "Laid on the table",
+      "date": "2026-04-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -124,6 +158,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Perry Warren\"}",
       "organization_id": null
+    },
+    {
+      "name": "Ed Neilson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ed Neilson\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -154,6 +196,10 @@
     {
       "url": "https://www.palegis.us/legislation/bills/2025/hb1247",
       "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=60&rollcallid=1885&sessYr=2025&sessInd=0",
+      "note": ""
     }
   ],
   "extras": {},
@@ -164,7 +210,7 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:45Z",
+    "logs_latest_update": "2026-07-14T13:04:38Z",
     "text_extraction_latest_update": "2026-07-13T10:25:13.703058Z"
   }
 }

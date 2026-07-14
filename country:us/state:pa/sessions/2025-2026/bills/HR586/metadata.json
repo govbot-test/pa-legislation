@@ -1,0 +1,81 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "HR 586",
+  "title": "A Resolution authorizing the sale of property known as the Juniata Gap Weekend Training Site, located at Good Shepherd Road, Altoona, Blair County; the Polk Center, located at 1 Lakewood Circle, Polk Borough, Venango County; SCI Retreat, located at 660 State Route 11, Glen Lyon, Luzerne County; the White Haven Center, located at 827 Oley Valley Road, White Haven, Luzerne County; and the Woodhaven Center, located at 2900 Southampton Road, Philadelphia, Philadelphia County. (This is the Real Property Disposition Plan No. 1 of 2026 where final action on this request must occur within 30 calendar days following its date of transmittal to the General Assembly, excluding days on which either house is not in session because of an adjournment of more than 10 days to a day certain, or the request is deemed approved.)",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pa-2025_2026-hr586"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred to House Calendar",
+      "date": "2026-07-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:39Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Carol Hill-Evans",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Carol Hill-Evans\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Printer's No. PN3770",
+      "links": [
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HR0586/PN3770",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/HR0586/PN3770",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/DOC/2025/0/HR0586/PN3770",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.palegis.us/legislation/bills/2025/hr586",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:pa/government",
+    "name": "Pennsylvania",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:pa"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:04:39Z"
+  }
+}

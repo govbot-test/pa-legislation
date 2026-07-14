@@ -38,6 +38,16 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:40Z"
       }
+    },
+    {
+      "description": "Laid on the table (Pursuant to House Rule 71)",
+      "date": "2026-03-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -276,7 +286,7 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:40Z",
+    "logs_latest_update": "2026-07-14T13:04:39Z",
     "text_extraction_latest_update": "2026-07-13T09:32:23.881324Z"
   }
 }

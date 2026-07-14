@@ -119,6 +119,18 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:43Z"
       }
+    },
+    {
+      "description": "Referred to Labor & Industry",
+      "date": "2025-12-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:36Z"
+      }
     }
   ],
   "sponsorships": [
@@ -272,7 +284,7 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:43Z",
+    "logs_latest_update": "2026-07-14T13:04:36Z",
     "text_extraction_latest_update": "2026-07-13T10:56:18.882160Z"
   }
 }

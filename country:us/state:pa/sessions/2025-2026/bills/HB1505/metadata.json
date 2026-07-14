@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "HB 1505",
-  "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in early learning programs, further providing for definitions.",
+  "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in preliminary provisions, providing for standardized testing study; in grounds and buildings, repealing provisions relating to lead testing and providing for lead testing; providing for school facilities; in certification of teachers, further providing for special education certificate grade spans and age levels and duties of department, for program of continuing professional and paraprofessional education, for continuing professional education for school or system leaders and for Pennsylvania school leadership standards, repealing provisions relating to permit for classroom monitors and providing for permit for classroom monitors; in pupils and attendance, further providing for attendance policy at charter, regional charter and cyber charter schools, providing for school district enrollee wellness checks and further providing for procedure when child is truant and for procedure upon filing of citation; in student supports, further providing for policy relating to bullying; in school safety and security, further providing for definitions, for School Safety and Security Grant Program, for school safety and security coordinator and for school safety and security training, providing for school safety and mental health grants for 2026-2027 school year, further providing for school safety and security coordinator training and for reporting and memorandum of understanding and providing for school mapping services; in school health services, further providing for health services and for reports and providing for eating disorder awareness and education; in terms and courses of study, providing for use of funds for implementing later school start times, further providing for flexible instructional days and for physical education, providing for recess periods, further providing for economic education and personal financial literacy programs and providing for social media literacy education; in early learning programs, further providing for definitions and for duties of approved providers; in high schools, further providing for attendance in other districts; in charter schools, further providing for enrollment, for cyber charter school requirements and prohibitions, for enrollment and notification and for enrollee wellness checks; in disability inclusive curriculum, further providing for pilot program; in career and technical education, providing for temporary waiver; in community colleges, further providing for financial program and reimbursement of payments; in Thaddeus Stevens College of Technology, further providing for individuals eligible for admission; in the State System of Higher Education, further providing for definitions and for Grow Pennsylvania Tuition Waiver Program; in institutions of higher education, further providing for definitions and for agency duties, providing for institution duties and further providing for report; in Ready-to-Succeed Scholarship, further providing for agency; in funding for public libraries, providing for State aid for fiscal year 2026-2027; in reimbursements by Commonwealth and between school districts, further providing for student-weighted basic education funding beginning with 2023-2024 school year and for extraordinary special education program expenses, providing for temporary assistance program and further providing for assistance to school districts declared to be in financial recovery status or identified for financial watch status and for Ready-to-Learn Block Grant; and, in construction and renovation of buildings by school entities, further providing for applicability.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -134,6 +134,168 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:06:42Z"
+      }
+    },
+    {
+      "description": "Reported as committed",
+      "date": "2026-06-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:39Z"
+      }
+    },
+    {
+      "description": "First consideration",
+      "date": "2026-06-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:39Z"
+      }
+    },
+    {
+      "description": "Second consideration",
+      "date": "2026-06-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:39Z"
+      }
+    },
+    {
+      "description": "Re-referred to Appropriations",
+      "date": "2026-06-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:39Z"
+      }
+    },
+    {
+      "description": "Re-reported as amended",
+      "date": "2026-07-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:39Z"
+      }
+    },
+    {
+      "description": "Third consideration and final passage",
+      "date": "2026-07-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:39Z"
+      }
+    },
+    {
+      "description": "Referred to Rules",
+      "date": "2026-07-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:39Z"
+      }
+    },
+    {
+      "description": "Re-reported on concurrence, as committed",
+      "date": "2026-07-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:39Z"
+      }
+    },
+    {
+      "description": "House concurred in Senate amendments",
+      "date": "2026-07-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:39Z"
+      }
+    },
+    {
+      "description": "Signed in House",
+      "date": "2026-07-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:39Z"
+      }
+    },
+    {
+      "description": "Signed in Senate",
+      "date": "2026-07-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:39Z"
+      }
+    },
+    {
+      "description": "Presented to the Governor",
+      "date": "2026-07-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:39Z"
+      }
+    },
+    {
+      "description": "Approved by the Governor",
+      "date": "2026-07-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:39Z"
+      }
+    },
+    {
+      "description": "Act No. 20 of 2026",
+      "date": "2026-07-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:39Z"
       }
     }
   ],
@@ -345,10 +507,53 @@
       "primary": false,
       "person_id": "~{\"name\": \"Joe Ciresi\"}",
       "organization_id": null
+    },
+    {
+      "name": "Jacklyn Rusnock",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jacklyn Rusnock\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Justin Fleming",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Justin Fleming\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gina Curry",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gina Curry\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Printer's No. PN3764",
+      "links": [
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HB1505/PN3764",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/HB1505/PN3764",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/DOC/2025/0/HB1505/PN3764",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Printer's No. PN1760",
       "links": [
@@ -374,7 +579,22 @@
       "note": "House Fiscal Note",
       "links": [
         {
+          "url": "https://www.legis.state.pa.us/WU01/LI/BI/FN/2025/0/HB1505P3764.pdf",
+          "media_type": "application/pdf"
+        },
+        {
           "url": "https://www.legis.state.pa.us/WU01/LI/BI/FN/2025/0/HB1505P1760.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Fiscal Note",
+      "links": [
+        {
+          "url": "https://www.legis.state.pa.us/WU01/LI/BI/SFN/2025/0/HB1505P3764.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -386,6 +606,30 @@
   "sources": [
     {
       "url": "https://www.palegis.us/legislation/bills/2025/hb1505",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=67&rollcallid=2746&sessYr=2025&sessInd=0",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/house/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=1338",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/senate/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=483",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=3&rollcallid=985&sessYr=2025&sessInd=0",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=3&rollcallid=986&sessYr=2025&sessInd=0",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=23&rollcallid=926&sessYr=2025&sessInd=0",
       "note": ""
     },
     {
@@ -413,7 +657,7 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:42Z",
+    "logs_latest_update": "2026-07-14T13:04:39Z",
     "text_extraction_latest_update": "2026-07-13T10:55:57.531082Z"
   }
 }

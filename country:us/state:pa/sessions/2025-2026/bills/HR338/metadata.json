@@ -16,13 +16,27 @@
   ],
   "actions": [
     {
-      "description": "TO UNCONTESTED CALENDAR UNDER RULE 35",
+      "description": "INTRODUCED AS NONCONTROVERSIAL RESOLUTION UNDER RULE 35",
       "date": "2025-10-08T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
+      "classification": [
+        "introduction"
+      ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T06:06:41Z"
+        "log_file_created": "2026-07-14T13:04:37Z"
+      }
+    },
+    {
+      "description": "Adopted",
+      "date": "2025-10-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:37Z"
       }
     }
   ],
@@ -234,7 +248,7 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:41Z",
+    "logs_latest_update": "2026-07-14T13:04:37Z",
     "text_extraction_latest_update": "2026-07-13T10:10:06.698194Z"
   }
 }

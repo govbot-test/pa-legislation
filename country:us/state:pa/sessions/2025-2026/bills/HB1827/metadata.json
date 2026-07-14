@@ -26,6 +26,32 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:44Z"
       }
+    },
+    {
+      "description": "Reported with request to re-refer to Aging & Older Adult Services",
+      "date": "2026-06-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:39Z"
+      }
+    },
+    {
+      "description": "Re-referred to Aging & Older Adult Services",
+      "date": "2026-06-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -92,6 +118,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Pat Gallagher\"}",
       "organization_id": null
+    },
+    {
+      "name": "Darisha K. Parker",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Darisha K. Parker\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -122,6 +156,10 @@
     {
       "url": "https://www.palegis.us/legislation/bills/2025/hb1827",
       "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=22&rollcallid=2636&sessYr=2025&sessInd=0",
+      "note": ""
     }
   ],
   "extras": {},
@@ -132,7 +170,7 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:44Z",
+    "logs_latest_update": "2026-07-14T13:04:39Z",
     "text_extraction_latest_update": "2026-07-13T08:38:55.805808Z"
   }
 }

@@ -1,0 +1,81 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "SB 1330",
+  "title": "An Act amending the act of December 16, 1986 (P.L.1646, No.188), known as the Chiropractic Practice Act,  in preliminary provisions, providing for findings and declarations and for applicability and construction and further providing for definitions; in State Board of Chiropractic, further providing for powers and duties and providing for certification to perform dry needling, for certification to practice animal chiropractic, for concussion management and for student athletes; in licensure and regulation, further providing for applications for license, repealing provisions relating to examination and to failure of examination, further providing for reciprocity, for limited license, for refusal, suspension or revocation of license, repealing provisions relating to continuing chiropractic education, providing for continuing chiropractic education requirements, for format and limits for continuing chiropractic education, for course content and approval, for calculation of continuing chiropractic education credits, for sponsor approval and program administration, for renewal certification, reporting and audits, for exemptions and carryover and for extensions, waivers and enforcement, further providing for professional liability insurance, for license required, for Doctor of Chiropractic and abbreviation and for relationship with other branches of the healing arts and providing for opinions and testimony; in penalty provisions, further providing for practice of chiropractic without license prohibited and for violation of other provisions; and, in miscellaneous provisions, further providing for fees.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pa-2025_2026-sb1330"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred to Consumer Protection & Professional Licensure",
+      "date": "2026-05-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:38Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Dawn Keefer",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Dawn Keefer\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Printer's No. PN1719",
+      "links": [
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/SB1330/PN1719",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/SB1330/PN1719",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/DOC/2025/0/SB1330/PN1719",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.palegis.us/legislation/bills/2025/sb1330",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:pa/government",
+    "name": "Pennsylvania",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:pa"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:04:38Z"
+  }
+}

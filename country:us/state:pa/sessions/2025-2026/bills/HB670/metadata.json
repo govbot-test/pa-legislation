@@ -70,6 +70,16 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:42Z"
       }
+    },
+    {
+      "description": "Laid on the table (Pursuant to House Rule 71)",
+      "date": "2026-02-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:37Z"
+      }
     }
   ],
   "sponsorships": [
@@ -360,6 +370,22 @@
       "primary": false,
       "person_id": "~{\"name\": \"Joe Ciresi\"}",
       "organization_id": null
+    },
+    {
+      "name": "Dan Frankel",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dan Frankel\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Paul Takac",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Paul Takac\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -404,7 +430,7 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:42Z",
+    "logs_latest_update": "2026-07-14T13:04:37Z",
     "text_extraction_latest_update": "2026-07-13T09:37:04.484401Z"
   }
 }

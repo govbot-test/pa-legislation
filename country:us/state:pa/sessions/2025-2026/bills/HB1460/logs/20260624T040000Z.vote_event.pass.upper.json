@@ -1,0 +1,102 @@
+{
+  "identifier": "",
+  "motion_text": "Committee vote (Institutional Sustainability & Innovation): Adopt Amendment",
+  "motion_classification": [],
+  "start_date": "2026-06-24T04:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025-2026",
+  "bill": "eea9eea2-7f4a-11f1-a77d-c697d80170ff",
+  "bill_action": null,
+  "bill_identifier": "HB 1460",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "David Argall",
+      "voter_id": "~{\"name\": \"David Argall\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Michele Brooks",
+      "voter_id": "~{\"name\": \"Michele Brooks\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chris Gebhard",
+      "voter_id": "~{\"name\": \"Chris Gebhard\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Timothy Kearney",
+      "voter_id": "~{\"name\": \"Timothy Kearney\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Devlin Robinson",
+      "voter_id": "~{\"name\": \"Devlin Robinson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Judy Ward",
+      "voter_id": "~{\"name\": \"Judy Ward\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kim Ward",
+      "voter_id": "~{\"name\": \"Kim Ward\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Frank Farry",
+      "voter_id": "~{\"name\": \"Frank Farry\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Maria Collett",
+      "voter_id": "~{\"name\": \"Maria Collett\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Art Haywood",
+      "voter_id": "~{\"name\": \"Art Haywood\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Steven Santarsiero",
+      "voter_id": "~{\"name\": \"Steven Santarsiero\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 8
+    },
+    {
+      "option": "no",
+      "value": 3
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=72&rollcallid=929&sessYr=2025&sessInd=0",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=72&rollcallid=929&sessYr=2025&sessInd=0#HB 1460"
+}

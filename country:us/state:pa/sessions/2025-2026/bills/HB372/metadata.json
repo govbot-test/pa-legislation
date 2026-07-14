@@ -61,15 +61,25 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:42Z"
       }
+    },
+    {
+      "description": "Corrective Reprint, Printer's No.  2843",
+      "date": "2026-02-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:38Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Louis Schmitt",
+      "name": "Kristin Marcell",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Louis Schmitt\"}",
+      "person_id": "~{\"name\": \"Kristin Marcell\"}",
       "organization_id": null
     },
     {
@@ -78,14 +88,6 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"R. Lee James\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Kristin Marcell",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Kristin Marcell\"}",
       "organization_id": null
     },
     {
@@ -123,6 +125,25 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Printer's No. PN2843",
+      "links": [
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HB0372/PN2843",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/HB0372/PN2843",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/DOC/2025/0/HB0372/PN2843",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Printer's No. PN1114",
       "links": [
@@ -186,7 +207,7 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:42Z",
+    "logs_latest_update": "2026-07-14T13:04:38Z",
     "text_extraction_latest_update": "2026-07-13T08:56:55.665924Z"
   }
 }

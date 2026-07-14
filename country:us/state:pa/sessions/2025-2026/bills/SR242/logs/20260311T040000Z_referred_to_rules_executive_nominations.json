@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Referred to Rules & Executive Nominations",
+    "occurred_at": "2026-03-11T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.palegis.us/legislation/bills/2025/sr242",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SR 242"
+}

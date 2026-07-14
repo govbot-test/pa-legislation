@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Referred to Professional Licensure",
+    "occurred_at": "2026-01-08T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.palegis.us/legislation/bills/2025/hb2121",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 2121"
+}

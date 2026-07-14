@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "HR 157",
-  "title": "A Resolution urging the Congress of the United States to pass H.R. 3023, the Treatment and Relief through Emerging and Accessible Therapy for PTSD Act, should it be reintroduced, or similar legislation dealing with stellate ganglion block therapy to veterans and members of the armed forces of the United States with post-traumatic stress disorder, during the 119th United States Congress.",
+  "title": "A Resolution urging the Congress of the United States to pass H.R. 1947, the Treatment and Relief through Emerging and Accessible Therapy for PTSD Act or similar legislation dealing with stellate ganglion block therapy to veterans and members of the armed forces of the United States with post-traumatic stress disorder, during the 119th United States Congress.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "resolution"
@@ -25,6 +25,29 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:06:40Z"
+      }
+    },
+    {
+      "description": "Reported as amended",
+      "date": "2025-12-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:39Z"
+      }
+    },
+    {
+      "description": "Laid on the table (Pursuant to House Rule 71)",
+      "date": "2026-04-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:39Z"
       }
     }
   ],
@@ -196,10 +219,45 @@
       "primary": false,
       "person_id": "~{\"name\": \"Kate Klunk\"}",
       "organization_id": null
+    },
+    {
+      "name": "Brenda Pugh",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brenda Pugh\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Manuel Guzman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Manuel Guzman\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Printer's No. PN2704",
+      "links": [
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HR0157/PN2704",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/HR0157/PN2704",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/DOC/2025/0/HR0157/PN2704",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Printer's No. PN1186",
       "links": [
@@ -226,6 +284,14 @@
     {
       "url": "https://www.palegis.us/legislation/bills/2025/hr157",
       "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=71&rollcallid=1513&sessYr=2025&sessInd=0",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=71&rollcallid=1512&sessYr=2025&sessInd=0",
+      "note": ""
     }
   ],
   "extras": {},
@@ -236,7 +302,7 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:40Z",
+    "logs_latest_update": "2026-07-14T13:04:39Z",
     "text_extraction_latest_update": "2026-07-13T08:44:33.095175Z"
   }
 }

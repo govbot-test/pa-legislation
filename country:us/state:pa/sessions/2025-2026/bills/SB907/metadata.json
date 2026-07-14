@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "SB 907",
-  "title": "An Act amending the act of July 10, 1990 (P.L.404, No.98), known as the Real Estate Appraisers Certification Act,  further providing for title of act, for definitions, for State Board of Certified Real Estate Appraisers, for powers and duties of board and for application and qualifications; providing for application and qualifications of home inspectors and home inspectors-in-training and for conduct of home inspection; further providing for reciprocity, for certification renewal, licensure renewal and records, for disciplinary and corrective measures, for reinstatement of certificate or license, for reporting of multiple certification, for surrender of suspended or revoked certificate or license, for penalties and for injunctive relief; providing for remedies for home inspection services consumers, for home inspection contracts and for home inspection reports; and making a repeal.",
+  "title": "An Act amending the act of February 19, 1980 (P.L.15, No.9), entitled \"An act establishing the State Real Estate Commission and providing for the licensing of real estate brokers and salesmen,\" in definitions, further providing for definitions and for State Real Estate Commission; in application of the act and penalties, further providing for unlawful to conduct business without license or registration certificate, for civil suits, for criminal penalties and for civil penalty; in powers and duties of the State Real Estate Commission - general, further providing for duty to issue licenses and registration certificates and for approval of schools, providing for continuing education for licensed home inspectors and further providing for administration and enforcement; in qualifications and applications for licenses and registration certificates, further providing for reputation and inactive licensee and revoked license and providing for home inspector license and home inspector-in-training registration; in duties of licensees, further providing for reciprocal licenses and for broker price opinion; making a repeal; and making an editorial change.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -25,6 +25,41 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:06:40Z"
+      }
+    },
+    {
+      "description": "Reported as amended",
+      "date": "2026-05-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:37Z"
+      }
+    },
+    {
+      "description": "First consideration",
+      "date": "2026-05-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:37Z"
+      }
+    },
+    {
+      "description": "Laid on the table (Pursuant to Senate Rule 9)",
+      "date": "2026-06-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:37Z"
       }
     }
   ],
@@ -60,10 +95,37 @@
       "primary": false,
       "person_id": "~{\"name\": \"Wayne Fontana\"}",
       "organization_id": null
+    },
+    {
+      "name": "Joe Picozzi",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joe Picozzi\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Printer's No. PN1692",
+      "links": [
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/SB0907/PN1692",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/SB0907/PN1692",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/DOC/2025/0/SB0907/PN1692",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Printer's No. PN1032",
       "links": [
@@ -90,6 +152,14 @@
     {
       "url": "https://www.palegis.us/legislation/bills/2025/sb907",
       "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=7&rollcallid=771&sessYr=2025&sessInd=0",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=7&rollcallid=772&sessYr=2025&sessInd=0",
+      "note": ""
     }
   ],
   "extras": {},
@@ -100,7 +170,7 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:40Z",
+    "logs_latest_update": "2026-07-14T13:04:37Z",
     "text_extraction_latest_update": "2026-07-13T10:52:35.818781Z"
   }
 }

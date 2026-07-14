@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "SB 939",
-  "title": "An Act providing for high impact data centers; establishing the Office of Transformation and Opportunity and the Artificial Intelligence, Data Center and Emerging Technology Regulatory Sandbox Program; and providing for powers and duties of office.",
+  "title": "Establishing the Office of Transformation and Opportunity and the Artificial Intelligence, Data Center and Emerging Technology Regulatory Sandbox Program; and providing for powers and duties of office and for permits for high impact data centers that have their own power.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -26,6 +26,16 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:06:43Z"
       }
+    },
+    {
+      "description": "Amended in Senate Committee on Communications & Technology",
+      "date": "2026-02-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:04:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -46,14 +56,6 @@
       "organization_id": null
     },
     {
-      "name": "Marty Flynn",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Marty Flynn\"}",
-      "organization_id": null
-    },
-    {
       "name": "Elder Vogel",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -64,6 +66,25 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Printer's No. PN1424",
+      "links": [
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/SB0939/PN1424",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/SB0939/PN1424",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/DOC/2025/0/SB0939/PN1424",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Printer's No. PN1048",
       "links": [
@@ -90,6 +111,10 @@
     {
       "url": "https://www.palegis.us/legislation/bills/2025/sb939",
       "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=5&rollcallid=636&sessYr=2025&sessInd=0",
+      "note": ""
     }
   ],
   "extras": {},
@@ -100,7 +125,7 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:06:43Z",
+    "logs_latest_update": "2026-07-14T13:04:38Z",
     "text_extraction_latest_update": "2026-07-13T09:36:02.480064Z"
   }
 }
