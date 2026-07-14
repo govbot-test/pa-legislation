@@ -1,16 +1,19 @@
-Title: Bill Text
-Official Title: 
+Title: House Bill 200 Printer's Number 0561
+Official Title: House Bill 200 Printer's Number 0561
 Number of Sections: 1
 Source: versions - Printer's No. PN0561
-Media Type: text/html
+Media Type: application/pdf
 
 ================================================================================
 
 Section 1:
-Bill Text Regular Session 2025-2026 House Bill 200 Printer's Number 0561 Text is being revised.
+Regular Session 2025-2026
+Text is being revised.
 
 
 ================================================================================
 
 Raw Text:
-Bill Text Regular Session 2025-2026 House Bill 200 Printer's Number 0561 Text is being revised.
+Regular Session 2025-2026
+House Bill 200 Printer's Number 0561
+Text is being revised.
