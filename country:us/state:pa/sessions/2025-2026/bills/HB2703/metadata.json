@@ -1,0 +1,80 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "HB 2703",
+  "title": "An Act amending Title 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in general provisions, further providing for definitions; in special vehicles and pedestrians, further providing for penalty for violation of subchapter; and, in powers of department and local authorities, further providing for specific powers of department and local authorities.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pa-2025_2026-hb2703"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Jill Cooper",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jill Cooper\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian Smith",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brian Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Andrew Kuzma",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Andrew Kuzma\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brad Roae",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brad Roae\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brenda Pugh",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brenda Pugh\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.palegis.us/legislation/bills/2025/hb2703",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:pa/government",
+    "name": "Pennsylvania",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:pa"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:08:18Z"
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "HB 2701",
+  "title": "An Act amending Title 20 (Decedents, Estates and Fiduciaries) of the Pennsylvania Consolidated Statutes, in health care, further providing for definitions, for legislative findings and intent, for compliance, for conflicting advance health care directives, for life insurance, for health care instruments optional, for pregnancy and for liability, providing for prohibited conduct and damages, for judicial relief, for implementation, savings provision and transitional provision and for uniformity of application and construction, repealing provisions relating to living wills, providing for health care decisions and advance health care directives, repealing provisions relating to short title of subchapter, providing for advance mental health care directive, further providing for execution, for requirements and options, for when health care power of attorney operative, for appointment of health care agents, for authority of health care agent, for countermand, for amendment, for revocation, for relation of health care agent to court-appointed guardian and other agents, for decisions by health care representative, for duties of attending physician and health care provider, for effect on other State law, for validity and for form, providing for effect of copy and certified physical copy, repealing provisions relating to example and providing for example; repealing provisions relating to mental health care; and making an editorial change.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pa-2025_2026-hb2701"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred to Health",
+      "date": "2026-07-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:08:18Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Liz Hanbidge",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Liz Hanbidge\"}",
+      "organization_id": null
+    },
+    {
+      "name": "La'Tasha Mayes",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"La'Tasha Mayes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kristine Howard",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kristine Howard\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Carol Hill-Evans",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Carol Hill-Evans\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Benjamin Sanchez",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Benjamin Sanchez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Maureen Madden",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Maureen Madden\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Danielle Friel Otten",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Danielle Friel Otten\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Melissa Shusterman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Melissa Shusterman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Melissa Cerrato",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Melissa Cerrato\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Printer's No. PN3772",
+      "links": [
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HB2701/PN3772",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/HB2701/PN3772",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/DOC/2025/0/HB2701/PN3772",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.palegis.us/legislation/bills/2025/hb2701",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:pa/government",
+    "name": "Pennsylvania",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:pa"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:08:18Z"
+  }
+}
