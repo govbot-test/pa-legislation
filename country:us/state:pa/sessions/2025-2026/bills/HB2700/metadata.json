@@ -14,7 +14,20 @@
       "identifier": "ocd-bill-pa-2025_2026-hb2700"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Referred to Labor & Industry",
+      "date": "2026-07-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T07:52:07Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Kristine Howard",
@@ -39,10 +52,46 @@
       "primary": false,
       "person_id": "~{\"name\": \"Carol Hill-Evans\"}",
       "organization_id": null
+    },
+    {
+      "name": "Emily Kinkead",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Emily Kinkead\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dan Williams",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dan Williams\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Printer's No. PN3778",
+      "links": [
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HB2700/PN3778",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/HB2700/PN3778",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/DOC/2025/0/HB2700/PN3778",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -59,7 +108,7 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-15T13:08:18Z",
+    "logs_latest_update": "2026-07-21T07:52:07Z",
     "text_extraction_latest_update": "2026-07-20T10:43:44.910967Z"
   }
 }

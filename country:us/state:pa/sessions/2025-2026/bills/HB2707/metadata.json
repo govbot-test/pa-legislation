@@ -1,0 +1,153 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "HB 2707",
+  "title": "An Act amending Title 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in particular rights and immunities, providing for liability for damages from donated menstrual products.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pa-2025_2026-hb2707"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred to Judiciary",
+      "date": "2026-07-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T07:52:07Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jacklyn Rusnock",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jacklyn Rusnock\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Melissa Shusterman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Melissa Shusterman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ana Tiburcio",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ana Tiburcio\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nikki Rivera",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nikki Rivera\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Liz Hanbidge",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Liz Hanbidge\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Benjamin Sanchez",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Benjamin Sanchez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ed Neilson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ed Neilson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Justin Fleming",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Justin Fleming\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dan Williams",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dan Williams\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark Gillen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mark Gillen\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Printer's No. PN3783",
+      "links": [
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HB2707/PN3783",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/HB2707/PN3783",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/DOC/2025/0/HB2707/PN3783",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.palegis.us/legislation/bills/2025/hb2707",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:pa/government",
+    "name": "Pennsylvania",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:pa"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-21T07:52:07Z"
+  }
+}

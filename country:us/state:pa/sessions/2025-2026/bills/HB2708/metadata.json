@@ -1,0 +1,153 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "HB 2708",
+  "title": "An Act providing for insurance coverage for epinephrine delivery systems; and imposing duties on the Insurance Department.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-pa-2025_2026-hb2708"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred to Insurance",
+      "date": "2026-07-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T07:52:07Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Liz Hanbidge",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Liz Hanbidge\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chris Pielli",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Chris Pielli\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ben Waxman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ben Waxman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeanne Mcneill",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeanne Mcneill\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Benjamin Sanchez",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Benjamin Sanchez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John Inglis Iii",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John Inglis Iii\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tarah Probst",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tarah Probst\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nancy Guenst",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nancy Guenst\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dan Williams",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dan Williams\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joseph Hohenstein",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joseph Hohenstein\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Printer's No. PN3784",
+      "links": [
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HB2708/PN3784",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/HB2708/PN3784",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/DOC/2025/0/HB2708/PN3784",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.palegis.us/legislation/bills/2025/hb2708",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:pa/government",
+    "name": "Pennsylvania",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:pa"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-21T07:52:07Z"
+  }
+}
