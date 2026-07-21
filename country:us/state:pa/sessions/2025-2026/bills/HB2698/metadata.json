@@ -14,7 +14,20 @@
       "identifier": "ocd-bill-pa-2025_2026-hb2698"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Referred to Education",
+      "date": "2026-07-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T08:01:14Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Brian Munroe",
@@ -154,7 +167,27 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Printer's No. PN3777",
+      "links": [
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HB2698/PN3777",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/HB2698/PN3777",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/DOC/2025/0/HB2698/PN3777",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -171,7 +204,7 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-14T13:04:37Z",
+    "logs_latest_update": "2026-07-21T08:01:14Z",
     "text_extraction_latest_update": "2026-07-20T10:43:44.758677Z"
   }
 }
